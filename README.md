@@ -1,6 +1,5 @@
 # LoginFormReact
 
-Login Form React --> <br/>
 https://codepen.io/yansht/pen/rNdaGYL
 
 Login form uses React with hooks to manage the login credentials.
